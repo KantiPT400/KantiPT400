@@ -18,7 +18,7 @@
 
 <!-- TODO: replace YOUR-LINKEDIN with your LinkedIn profile handle -->
 <a href="https://www.linkedin.com/in/c-kanti-prasoona-2548b3292"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a>
-<a href="https://x.com/itsKanti90"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X"></a>
+
 
 ### Languages and tools
 
